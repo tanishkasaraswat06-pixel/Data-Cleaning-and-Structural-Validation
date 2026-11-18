@@ -1,0 +1,26 @@
+Employee_ID,Name,Email,City,Joining_Date,Salary,Status
+101,Aarav Sharma,aarav.sharma@email.com,Delhi,2026-01-05, 85000 ,Active
+102,Diya Verma,diya.verma@email.com,gurugram,05/01/2026,72000,active
+103,Kabir Singh,kabir.singh@email.com,MUMBAI,2026/01/07,,Active
+104,Anaya Gupta,anaya.gupta@email.com,Pune,Jan 08 2026,68000,Inactive
+105,Ishaan Mehta,ishaan.mehta@email.com,Delhi,2026-01-09,91000,ACTIVE
+106,Meera Joshi,,Jaipur,10-01-2026,65000,active
+107,Rohan Kapoor,rohan.kapoor@email.com,gurugram,2026-01-11,78000,Inactive
+108,Sara Khan,sara.khan@email.com,Chennai,2026-01-12, 83000,Active
+109,Vivaan Rao,vivaan.rao@email.com,mumbai,13/01/2026,76000,inactive
+110,Aditi Nair,aditi.nair@email.com,Kolkata,2026-01-14,69000,Active
+111,Arjun Das,arjun.das@email.com,Delhi,2026-01-15,N/A,Active
+112,Myra Sen,myra.sen@email.com,PUNE,16/01/2026,74000,Inactive
+113,Reyansh Jain,reyansh.jain@email.com,Jaipur,2026-01-17,81000,active
+114,Kiara Malhotra,kiara.malhotra@email.com,Chennai,2026-01-18,70000,Active
+115,Atharv Patel,atharv.patel@email.com,Delhi,2026-01-19,88000,Inactive
+116,Saanvi Roy,saanvi.roy@email.com,Kolkata,2026-01-20,67000,Active
+117,Dev Khanna,dev.khanna@email.com,Gurugram,2026-01-21,79500,active
+118,Ira Bansal,ira.bansal@email.com,Mumbai,2026-01-22,73000,Inactive
+119,Yash Thakur,yash.thakur@email.com,Pune,2026-01-23,82000,Active
+120,Tara Iyer,tara.iyer@email.com,Jaipur,2026-01-24,71000,Inactive
+102,Diya Verma,diya.verma@email.com,gurugram,05/01/2026,72000,active
+121,Neil Sethi,neil.sethi@email.com,Delhi,2026-01-25, 76000 ,Active
+122,Riya Chawla,riya.chawla@email.com,Mumbai,2026-01-26,missing,ACTIVE
+123,Advik Bose,advik.bose@email.com,PUNE,27/01/2026,84000,inactive
+124,Pari Saxena,pari.saxena@email.com,Jaipur,2026-01-28,69000,Active
